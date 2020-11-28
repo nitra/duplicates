@@ -1,0 +1,17 @@
+{
+  "name": "@nitra/duplicates",
+  "version": "1.0.5",
+  "main": "index.js",
+  "description": "Find duplicate files (only git ls-files)",
+  "repository": "git@github.com:nitra/duplicates.git",
+  "author": "vitaliytv <vitaliytv@nitralabs.com>",
+  "license": "MIT",
+  "prettier": "prettier-config-standard",
+  "bin": "index.js",
+  "dependencies": {
+    "cosmiconfig": "^7.0.0"
+  },
+  "devDependencies": {
+    "prettier-config-standard": "^1.0.1"
+  }
+}
