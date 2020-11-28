@@ -58,5 +58,7 @@ exec(
     for (const v of myMap.values()) {
       console.log('duplicate files: ', v)
     }
+
+    console.log('count: ', myMap.size)
   }
 )
